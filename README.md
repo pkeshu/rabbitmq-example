@@ -1,0 +1,2 @@
+# rabbitmq-example
+AMQP
