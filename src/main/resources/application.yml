@@ -1,0 +1,7 @@
+com:
+  keshar:
+    queue: keshar_queue
+    exchange: keshar_exchange
+    routing: keshar_routinKey
+server:
+  port: 9191
